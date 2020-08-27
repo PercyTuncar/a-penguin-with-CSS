@@ -1,9 +1,9 @@
 .penguin {
 
     /* Only change code below this line */
-    --penguin-skin: black;
-    --penguin-belly: gray;
-    --penguin-beak: yellow;
+    --penguin-skin: rgb(9, 183, 252);
+    --penguin-belly: rgb(255, 255, 255);
+    --penguin-beak: rgb(255, 153, 0);
     /* Only change code above this line */
 
     position: relative;
@@ -167,7 +167,7 @@
   }
 
   body {
-    background:#c6faf1;
+    background:#003618;
   }
 
   .penguin * {
